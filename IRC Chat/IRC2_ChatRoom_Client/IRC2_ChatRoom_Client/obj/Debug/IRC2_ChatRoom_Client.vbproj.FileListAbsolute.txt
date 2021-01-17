@@ -1,0 +1,21 @@
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\bin\Debug\IRC2_ChatRoom_Client.exe
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\bin\Debug\IRC2_ChatRoom_Client.pdb
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\bin\Debug\IRC2_ChatRoom_Client.xml
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.vbprojResolveAssemblyReference.cache
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.Form1.resources
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.Resources.resources
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.vbproj.GenerateResource.Cache
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.exe
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.xml
+C:\Users\Roy Gerbil\Documents\Visual Studio 2017\YTIRC\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.pdb
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\bin\Debug\IRC2_ChatRoom_Client.exe
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\bin\Debug\IRC2_ChatRoom_Client.pdb
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\bin\Debug\IRC2_ChatRoom_Client.xml
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.vbprojAssemblyReference.cache
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.Form1.resources
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.Resources.resources
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.vbproj.GenerateResource.cache
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.vbproj.CoreCompileInputs.cache
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.exe
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.xml
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Client\IRC2_ChatRoom_Client\obj\Debug\IRC2_ChatRoom_Client.pdb

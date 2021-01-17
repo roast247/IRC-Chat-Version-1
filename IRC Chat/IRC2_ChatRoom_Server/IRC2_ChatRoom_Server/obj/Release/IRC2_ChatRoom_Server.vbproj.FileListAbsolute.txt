@@ -1,0 +1,11 @@
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\bin\Release\IRC2_ChatRoom_Server.exe
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\bin\Release\IRC2_ChatRoom_Server.pdb
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\bin\Release\IRC2_ChatRoom_Server.xml
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.vbprojAssemblyReference.cache
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.Form1.resources
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.Resources.resources
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.vbproj.GenerateResource.cache
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.vbproj.CoreCompileInputs.cache
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.exe
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.xml
+C:\Users\macpr\Desktop\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\IRC2_ChatRoom_Server\obj\Release\IRC2_ChatRoom_Server.pdb
